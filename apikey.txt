@@ -1,0 +1,2 @@
+ NASA_API_KEY = 'tz6CvXkLfg4etTXfvIZSOFaGDi6Cmm9BT393j05V'
+    APOD_URL = "https://api.nasa.gov/planetary/apod"
